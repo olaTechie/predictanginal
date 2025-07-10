@@ -1,3 +1,4 @@
 pillow
 joblib
 pycaret
+scikit-learn
