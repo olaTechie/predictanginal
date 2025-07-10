@@ -1,4 +1,4 @@
 pillow
 joblib
 pycaret
-scikit-learn
+scikit-learn==1.2.2
